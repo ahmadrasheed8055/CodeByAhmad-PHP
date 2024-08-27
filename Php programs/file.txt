@@ -1,0 +1,3 @@
+My name is ahmad rasheed and this is the file im going to open by using php
+and i hope this will work ;) 
+And finally it's working .
